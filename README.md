@@ -1,0 +1,1 @@
+This assignment was difficult for me because it is hard to see the difference between lists and dictionaries
